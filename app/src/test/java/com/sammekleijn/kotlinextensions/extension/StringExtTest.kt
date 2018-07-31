@@ -1,8 +1,8 @@
-package com.sammekleijn.serializabletohashmap.extension
+package com.sammekleijn.kotlinextensions.extension
 
-import com.sammekleijn.model.Album
-import com.sammekleijn.model.Artist
-import com.sammekleijn.model.Song
+import com.sammekleijn.kotlinextensions.model.Album
+import com.sammekleijn.kotlinextensions.model.Artist
+import com.sammekleijn.kotlinextensions.model.Song
 import junit.framework.Assert.*
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.sammekleijn.serializabletohashmap.extension
+package com.sammekleijn.kotlinextensions.extension
 
 
 import java.io.Serializable

@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sammekleijn.serializabletohashmap">
+    package="com.sammekleijn.kotlinextensions">
 
     <application
         android:allowBackup="true"
